@@ -15,9 +15,22 @@ h1, h2, h3, h4, h5, h6 {
   text-align: justify;
 }
 
+h2 {
+  color: #737373
+}
+
 h3 {
   font-family: Arvo;
   color: #737373;
+}
+
+p {
+  font-family: Kreon;
+  text-align: justify;
+}
+
+ul {
+  font-family: Kreon;
 }
 
 hr {
@@ -44,7 +57,7 @@ a {
   font-family: Oswald;
 }
 
-div.downloads {
+div.accent {
   background-color: #FF82E2;
   width: 100%;
   padding: 20px;
