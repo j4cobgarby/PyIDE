@@ -1,14 +1,11 @@
-<div class="content">
-
 # Python Text Editor
 
 ### This program is in beta. Only a few features have been implemented at the moment. For a list of these, see below. It's in development, so all the mentioned features will, at some point, be added. Email me at j.garby@icloud.com for suggestions.
 
 * * *
+[Download .zip  ](downloads/Py IDE.zip)
 
-<div class="accent">[Download .zip  ](downloads/Py IDE.zip)</div>
-
-<center>![Overview screenshot](images/screenshot1.png)</center>
+![Overview screenshot](images/screenshot1.png)
 
 This started as my first Java Swing project, but then I realised that I could make an actually useful lightweight Python IDE. In some ways it's similar to IDLE (as in, only one file - no tabs, and a way to run the file from the IDE), But I came up with a couple of new features which makes this text editor very handy.
 
@@ -58,9 +55,3 @@ For this feature I used a library made by someone else - available [here on GitH
 # Contact me!
 
 ### Email me at j.garby@icloud.com, I'll try to remember to check it. so email me with any problems with the program, or any ideas on how to improve it!
-
-<div class="accent">[Download .zip  ](downloads/Py IDE.zip)</div>
-
-</div>
-
-<div class="footer">Copyright © Jacob Garby 2016  |  Contact me at j.garby@icloud.com</div>
