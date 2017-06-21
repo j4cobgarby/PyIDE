@@ -1,7 +1,7 @@
 # Python Text Editor
 
-~~~## I NEED TO FIX THIS. IT VERY MUCH DOES NOT WORK~~~
-It works fine..
+## ~~~I NEED TO FIX THIS. IT VERY MUCH DOES NOT WORK~~~
+### It works fine..
 
 ### This program is in beta. Only a few features have been implemented at the moment. For a list of these, see below. It's in development, so all the mentioned features will, at some point, be added. Email me at j.garby@icloud.com for suggestions.
 
